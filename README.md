@@ -9,5 +9,6 @@ The Objective of this project is to web scrape review data from the web and perf
 ## Insights :-
 1. 70% of the reviews are negative for British Airways .
 2. Average customer ratinng for airlines is 5 out of 10.
-3. The services was worst from 2016-2018 then improved.
+3. The services was worst from 2016-2018.
 4. Positive reviews were high before 2016 then decreased.
+5. Most of the negative review are from couples and solo travelling in economic class.
