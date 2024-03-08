@@ -14,8 +14,8 @@ The customer reviews for this project can be extracted using [skytrax](https://w
 4. Dataprep by Trifacta
 5. Looker
 ### ETL workflow :
-#### [steps](flow_British_Airways_Data_Preparation.json5)
-#### ![workflow](British Airways Data Preparation.jpg)
+#### [steps](Workflow/flow_British_Airways_Data_Preparation.json5)
+#### ![workflow](Workflow/British Airways Data Preparation.jpg)
 
 ### Sentiment analysis & entity extraction [code](Sentiment_Analysis_via_API.ipynb)
 ### Dashboard
