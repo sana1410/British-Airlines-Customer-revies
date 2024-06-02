@@ -2,22 +2,19 @@
 ## Sentiment Analysis Dashoard 
 ### Objective:-
 #### Task1:-
-The Objective of this project is to web scrape review data from the web and perform sentiment analysis using Google Cloud NLP API and present Insights .
+The Objective of this project is to web scrape British Airways customer reviews data from the Skytrax and perform sentiment analysis using Azure AI API in python and present Insights .
 #### Task2:-
-The objective is to built a predictive model to analyze the customers purchasing behaviour using historical Data .
+The objective is to built a customer segmentation model to analyze the customers purchasing behaviour using extracted data.
 ### Dataset to Be used
 The customer reviews for this project can be extracted using [skytrax](https://www.airlinequality.com/airline-reviews/british-airways)
 ### Technologies used :
-1. Google cloud storage
-2. Google cloud NLP API
-3. Google colab
-4. Dataprep by Trifacta
-5. Looker
-### ETL workflow :
-#### [steps](Workflow/flow_British_Airways_Data_Preparation.json5)
-#### ![workflow](Workflow/British Airways Data Preparation.jpg)
+1. Deepnote
+2. Azure AI Language Services [link](https://learn.microsoft.com/en-us/azure/ai-services/language-service/)
+4. BeautifulSoup for web scrapping
+5. Seaborn and Matplotlib
+6. Kmeans Clustering
 
-### Sentiment analysis & entity extraction [code](Sentiment_Analysis_via_API.ipynb)
+### Sentiment analysis & entity extraction [code](https://deepnote.com/app/forage/British-Airways-Sentiment-analysis-1b673c0b-11c3-4e9a-b355-ee9df113ae11)
 ### Dashboard
 
 <iframe width="900" height="1200" src="https://lookerstudio.google.com/embed/reporting/c3bcb6e8-1b53-4ae2-9079-37d681061114/page/yudqD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
