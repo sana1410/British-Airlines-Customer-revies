@@ -17,7 +17,7 @@ The customer reviews for this project can be extracted using [skytrax](https://w
 ### Sentiment analysis & entity extraction [code](https://deepnote.com/app/forage/British-Airways-Sentiment-analysis-1b673c0b-11c3-4e9a-b355-ee9df113ae11)
 ### Dashboard
 
-<iframe width="900" height="1200" src="https://lookerstudio.google.com/embed/reporting/c3bcb6e8-1b53-4ae2-9079-37d681061114/page/yudqD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+<iframe width="900" height="1200" src="https://app.fabric.microsoft.com/links/Ew3gikqpAP?ctid=871ca2de-1084-4750-a6a4-62e70c9203ee&pbi_source=linkShare&bookmarkGuid=3b899a94-8868-47df-a82a-70c192d7b5ad" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 ### Insights :-
 1. 70% of the reviews are negative for British Airways .
